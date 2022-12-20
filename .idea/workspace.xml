@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5752c1ce-2bc9-479b-bef1-36065fd919a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JDBCStudy/CallableStatement1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JDBCStudy/Execute01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JDBCStudy/ExecuteQuery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JDBCStudy/ExecuteQuery2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JDBCStudy/ExecuteUpdate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JDBCStudy/JDBCUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JDBCStudy/PreparedStatement01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JDBCStudy/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Test01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Work01/MedunnaColumnNameTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Work01/MedunnaMessageEmailTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Work01/MedunnaPatientTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Work01/MedunnaStaffBirthDay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Work01/Task01" afterDir="false" />
-    </list>
+    <list default="true" id="5752c1ce-2bc9-479b-bef1-36065fd919a5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
